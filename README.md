@@ -1,2 +1,2 @@
 # testrepo
-repository for github studying.
+repository for GitHub studying.
